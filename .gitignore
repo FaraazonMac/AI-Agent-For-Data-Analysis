@@ -1,0 +1,20 @@
+# runtime artifacts
+logs/
+eval_results/
+questions_template.csv
+__pycache__/
+
+# secrets
+.env
+
+# python
+*.pyc
+venv/
+.venv/
+
+# node
+node_modules/
+.next/
+
+# macOS
+.DS_Store
