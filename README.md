@@ -1,4 +1,4 @@
-# [AI-Agent-For-Data-Analysis](https://github.com/FaraazonMac/AI-Agent-For-Data-Analysis)
+# AI-Agent-For-Data-Analysis
 
 An AI-powered data analysis platform that turns natural-language questions into real computation — not guessed numbers. It analyzes CSVs and Excel files, extracts and analyzes structured tables buried inside PDFs, and joins across multiple datasets with real SQL, all while every LLM-generated operation runs inside a sandboxed execution engine before it ever touches your data.
 
