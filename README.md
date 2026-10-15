@@ -224,7 +224,7 @@ This project is available for portfolio and educational reference.
 
 ---
 
-## Author
+## Contact & Info
 
 * **Analyst:** Mohammed Faraaz Shaik — [faraazshaik05042005@gmail.com](mailto:faraazshaik05042005@gmail.com)
 * **LinkedIn:** [www.linkedin.com/in/mohammed-faraaz-shaik](https://www.linkedin.com/in/mohammed-faraaz-shaik)
